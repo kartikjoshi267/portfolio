@@ -5,7 +5,7 @@ import { ComputersCanvas } from './canvas'
 
 const Hero = () => {
   return (
-    <section style={{ background: 'linear-gradient(to right, #180157, #0250f7)' }} className='relative w-full h-screen mx-auto'>
+    <section style={{ background: 'linear-gradient(to right, #3c02ba, #180157, #0297fa)' }} className='relative w-full h-screen mx-auto'>
       <div className={`${styles.paddingX} absolute inset-0 top-[120px] max-w-7xl mx-auto flex flex-row items-start gap-5`}>
         <div className='flex flex-col justify-center items-center mt-5'>
           <div className='w-5 h-5 rounded-full bg-[#d9d502]' />
@@ -15,7 +15,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className='text-[#d9d502]'>Kartik</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, user <br className='sm:block hidden' /> interfaces and web application
+            I develop user interfaces<br className='sm:block hidden' /> and web application
           </p>
         </div>
 

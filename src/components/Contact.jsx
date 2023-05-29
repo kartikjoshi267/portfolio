@@ -14,13 +14,26 @@ const Contact = () => {
     message: ''
   });
   const [loading,setLoading] = useState(false);
-
+  
   const handleChange = (e) => {
-
+    const key = e.target.name;
+    const value = e.target.value;
+    setForm({...form, [key]:value});
   }
   
   const handleSubmit = (e) => {
-
+    e.preventDefault();
+    setLoading(true);
+    emailjs.init('ul5kzKTsu_AqiBR0q');
+    emailjs.send('service_47l3h1l', 'template_ne2q1jj', form).then((val)=>{
+      setLoading(false);
+      setForm({
+        name: "",
+        email: "",
+        message: ""
+      });
+      alert("Email sent successfully");
+    });
   }
   
   return (

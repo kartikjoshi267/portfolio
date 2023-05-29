@@ -42,7 +42,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Problem Solver",
       icon: mobile,
     },
     {
@@ -50,7 +50,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Open Source Contributor",
       icon: creator,
     },
   ];
@@ -109,7 +109,6 @@ import {
         "Open source contribution encourages collaboration among developers around the world.",
         "Contributing to open source projects is an excellent way to enhance your programming skills.",
         "Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.",
-        "Engaging in open source projects allows you to connect with like-minded individuals and establish professional relationships.",
       ],
     },
     {
@@ -122,7 +121,6 @@ import {
         "Open source contribution encourages collaboration among developers around the world.",
         "Contributing to open source projects is an excellent way to enhance your programming skills.",
         "Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.",
-        "Engaging in open source projects allows you to connect with like-minded individuals and establish professional relationships.",
       ],
     },
     {
@@ -135,7 +133,6 @@ import {
         "Open source contribution encourages collaboration among developers around the world.",
         "Contributing to open source projects is an excellent way to enhance your programming skills.",
         "Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.",
-        "Engaging in open source projects allows you to connect with like-minded individuals and establish professional relationships.",
       ],
     },
   ];

@@ -44,7 +44,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, quidem dolores. Quas mollitia praesentium corporis perspiciatis vitae dolor, commodi pariatur veritatis temporibus voluptatibus possimus, placeat quod id hic quo ipsa. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem a dolor quisquam, aut animi voluptatibus odio recusandae quos, ipsum temporibus soluta saepe. Excepturi necessitatibus suscipit in temporibus odit architecto harum.
+        A passionate learner. Want to learn every new and trending technology. A Full Stack Web Developer (especially, MERN Stack). I have participated in various open source programs like Hacktoberfest 2022, GirlScript Summer of Code 2023, Social Summer of Code 2023, etc.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
