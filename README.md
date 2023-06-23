@@ -1,4 +1,4 @@
-![Amazing-Python-Scripts](https://socialify.git.ci/kartikjoshi267/portfolio/image?description=1&forks=1&issues=1&language=1&logo=https://avatars.githubusercontent.com/u/96565730?v=4&owner=1&pulls=1&stargazers=1)
+<img src="https://socialify.git.ci/kartikjoshi267/portfolio/image?font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96565730%3Fv%3D4&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="portfolio" />
 
 # Portfolio Website
 Personal Portfolio Website
