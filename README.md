@@ -1,7 +1,16 @@
 # Portfolio Website
 Personal Portfolio Website
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikjoshi267&color=green">
+      <img src="https://komarev.com/ghpvc/?username=kartikjoshi267&color=green">
+      <img src="https://img.shields.io/github/license/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/issues/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/last-commit/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/stars/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/contributors/kartikjoshi267/portfolio?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/github/issues-pr/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/issues-pr-raw/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/issues-closed-raw/kartikjoshi267/portfolio?style=for-the-badge" />
+      <img src="https://img.shields.io/github/forks/kartikjoshi267/portfolio?style=for-the-badge" />
 </p>
 
 ## Technologies Used
