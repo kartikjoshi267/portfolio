@@ -1,5 +1,8 @@
+![Amazing-Python-Scripts](https://socialify.git.ci/kartikjoshi267/portfolio/image?description=1&forks=1&issues=1&language=1&logo=https://avatars.githubusercontent.com/u/96565730?v=4&owner=1&pulls=1&stargazers=1)
+
 # Portfolio Website
 Personal Portfolio Website
+
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=kartikjoshi267&color=green">
       <img src="https://img.shields.io/github/license/kartikjoshi267/portfolio?style=for-the-badge" />
